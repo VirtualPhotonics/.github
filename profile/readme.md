@@ -1,6 +1,4 @@
-The Virtual Photonics Technology Initiative was established by the Laser Microbeam and Medical Program (LAMMP), an NIH/NIBIB Biotechnology Resource Center at the Beckman Laser Institute and Medical Clinic in April 2008.
-
-![LAMMP](https://github.com/VirtualPhotonics/.github/blob/main/images/lammp.png)
+The Virtual Photonics Technology Initiative was initiated and supported from 2008 – 2019 by the Laser Microbeam and Medical Program (LAMMP), an NIBIB Biomedical Technology Resource Center at the [Beckman Laser Institute and Medical Clinic](https://www.bli.uci.edu/). This Initiative remains active and welcomes contributions, collaboration, and support from potential academic and industrial stakeholders.
 
 ### The Virtual Photonics Technology Initiative has four primary goals:
 
