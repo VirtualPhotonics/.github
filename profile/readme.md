@@ -10,4 +10,4 @@ The Virtual Photonics Technology Initiative was initiated and supported from 200
 
 * (d) Stimulate the formation of an active community of 'experts' in Computational Biophotonics interested in offering their expertise and in developing advanced simulation tools to advance this open-source effort.
 
-Copyright ©2023 [Virtual Photonics Technology Initiative](https://virtualphotonics.org/).
+Copyright ©2025 [Virtual Photonics Technology Initiative](https://virtualphotonics.org/).
